@@ -154,6 +154,7 @@ This is mostly just advice I would give to people that just landed a position.
 - Reach out to a lot of people for advice. Reaching out to me is smart since I know what I'm talking about. I still reach out to a lot of family, friends, and former bosses for advice.
 - The terminal is your friend. I know a lot of people avoid the terminal as much as possible when programming, but the more you use it, the more you realize how incredible it is. Get used to doing things in the terminal
 - [Neovim](https://neovim.io/) is incredible. A majority of people will not enjoy writing their code in Neovim, but I love it. If you're willing to put in the time, you can become a lot faster at writing code.
+- Focus on automating as much as possible. As you get older more and more responsibility will be thrown your way. With your computer skills, you should be able to automate a lot of it. Start simple by automating payments/bills and work your way up to automating as much as possible.
 
 ## Conclusion
 ---
