@@ -20,15 +20,15 @@ One of the most difficult aspects of building a good resume as an undergrad is h
 - Join a club at school. To be honest this won't be a massive benefit to your resume, but it does look good and fill out some space. 
 - Get a job. If you're about to graduate, it might be too late. For pretty much everyone else, if you've never had a normal job, you should get one. A single *grunt work* job looks ingredible on your resume. For me I worked at a Golf Course and put that on my resume. If you're worried about time commitment, get a summer job or an on campus job.
 
-#### Projects
----
+### Projects
+
 You should probably have a projects section to your resume if you're applying to any position that involves writing code. If you haven't coded a second outside of school, here are a list of projects that you should have done at SU as a CS major that display competency. Pretty much any of the cool sounding projects will be impressive on your resume. Just make sure you remember most the details of what the problem was and how you solved it because you will be asked about it in interviews.
 
 - **Capstone** (Your capstone project is an amazing asset to add to your resume)
 - **AI Final Project** (If you have taken Dr. Schrum's AI class, the final project is another excellent asset to add to your resume. One of the benefits is more than likely you can publish the code for this publicly on your [Github](https://github.com/))
 - **Programming Languages Project 8 Wikipedia Web Scraping** (This is probably the best standard project to add to your resume. A ton of programming in the corporate world is fetch this data, do something with the data, then display it somewhere else)
 
-#### Formatting
+### Formatting
 
 There are many perspectives and opinions on how your resume should look. The only hard rule I believe in is that your resume should not exceed one page. This is monumental for your resume. If you resume exceeds one page, change that ASAP.
 
@@ -40,7 +40,7 @@ Below are a list of things that I believe are important to the resume, but might
 - You cannot have any gramatical errors
 - Do everything the same way. For instance, if one time I list the time I worked at a job as 2019/06 (year/month) but somewhere else for another job I list 08/2020 (month/year) then that looks bad. Follow this perfectly, if you have a - (dash space) and somewhere else you have -  (dash space space) don't do that.
 
-#### General Resume Advice
+### General Resume Advice
 
 This advice will be true of a lot of the job hunt process, but really try to put yourself in their shows. They're combing through hundreds of resumes that are all kind of the same. They're going to skim yours for two minutes. Because of this, you really want something that will draw their interest. This is why you want to organize your resume where the most interesting stuff is towards the top and the least interesting stuff is towards the bottom (meaning your work experience does not have to be chronological).
 
@@ -74,7 +74,7 @@ Also, a lot of people talk about the Leetcode grind. I really wouldn't suggest g
 ## Applying to Positions
 ---
 
-#### When to Apply
+### When to Apply
 
 You should start applying as soon as possible. If you start applying for positions, the beginning of senior year, it will probably be a lot slower that first semester compared to your last semester.
 
@@ -82,7 +82,7 @@ A common issue I ran into when applying super early on is during the interview I
 
 That being said, it is still advantageous to start applying quite early.  
 
-#### Where to Apply
+### Where to Apply
 
 For where you should apply, like what websites, [Linkedin](https://www.linkedin.com) worked best for me. People will warn you about quick apply, since it's so fast and easy to apply there's a lot more competition. Even though your odds are low, when it takes one minute to apply, why not? I landed my job from a quick apply. That being said, you also want to put some effort into applications that take time. It's super important you're fast at applying because you will want to apply as much as possible.
 
@@ -104,7 +104,7 @@ Interviewing is a skill that takes practice. Some people go in thinking they're 
 
 Focus on being likeable. This is perhaps the most important aspect of interviewing. Usually, you are going to be interviewed by the people you will work with if you land the job. Sometimes there's a first interview with a recruiter or something, but at some point in the interview process, this is usually the case. They're looking for someone they're going to sit next to and work with for potentially years. I'm sure you've met someone before where in the first minute of conversation you tell yourself, "I don't want to be around this person." You want to give off the opposite. Do your best to not be nervous, smile, make good conversation.
 
-#### Answering Questions
+### Answering Questions
 
 Be prepared for some of the same questions over and over. There are some classic interview questions that you might want to review and write down how you would respond. I only got asked "What's your greatest weakness" once, but similar generic questions will come up a lot. I'll list a few questions I remember getting below.
 
@@ -113,7 +113,7 @@ Be prepared for some of the same questions over and over. There are some classic
 - Questions geared specifically about work experience and programming projects
 
 
-#### Asking Questions
+### Asking Questions
 
 Be prepared to ask questions. This is super important. At the end of almost every single interview, they are going to ask you if you have any questions. It is MONUMENTAL that you have some decent questions prepared. Since I was applying to so many positions, I would forget I applied to a company when I got an interview. Even if I remembered, I always looked at the company's website a bit. You want a basic idea of what they do. A lot of their websites do not effectively communicate what the company does so I usually asked what they did, but in that question, I would make sure it shows I did my homework. For instance, for one interview I asked something like "Hey, I was looking through your website and I'm still a bit confused as to what <company name> does. Do you guys create finance software or ...?"
 
