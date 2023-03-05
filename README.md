@@ -1,4 +1,4 @@
-# UndergradJobHuntHandbook
+# Undergrad Job Hunt Handbook
 ---
 
 I have had a few people reach out to me for general advice on the job hunt process so I decided to write a document that contains almost everything I know about the process. 
@@ -28,6 +28,18 @@ You should probably have a projects section to your resume if you're applying to
 - **AI Final Project** (If you have taken Dr. Schrum's AI class, the final project is another excellent asset to add to your resume. One of the benefits is more than likely you can publish the code for this publicly on your [Github](https://github.com/))
 - **Programming Languages Project 8 Wikipedia Web Scraping** (This is probably the best standard project to add to your resume. A ton of programming in the corporate world is fetch this data, do something with the data, then display it somewhere else)
 
+#### Formatting
+
+There are many perspectives and opinions on how your resume should look. The only hard rule I believe in is that your resume should not exceed one page. This is monumental for your resume. If you resume exceeds one page, change that ASAP.
+
+Below are a list of things that I believe are important to the resume, but might not apply to every single individual.
+
+- Find a good template. You can create your own template if you have an eye for design, but I think it's easiest to just use an online template. Just make sure whatever website you use doesn't try to Nickel and Dime you. For my resume, I use [flowcv](https://app.flowcv.com/). You can also find some great [LaTex](https://www.overleaf.com/) templates if you want complete control.
+- You want something that is pretty standard, but also has a hint of uniqueness. Don't pick the #1 most popular template. 
+- For me personally, I like a hint of color. Nothing crazy, but more than black and white. A few greys or business blues can really make it pop while still looking sharp.
+- You cannot have any gramatical errors
+- Do everything the same way. For instance, if one time I list the time I worked at a job as 2019/06 (year/month) but somewhere else for another job I list 08/2020 (month/year) then that looks bad. Follow this perfectly, if you have a - (dash space) and somewhere else you have -  (dash space space) don't do that.
+
 #### General Resume Advice
 
 This advice will be true of a lot of the job hunt process, but really try to put yourself in their shows. They're combing through hundreds of resumes that are all kind of the same. They're going to skim yours for two minutes. Because of this, you really want something that will draw their interest. This is why you want to organize your resume where the most interesting stuff is towards the top and the least interesting stuff is towards the bottom (meaning your work experience does not have to be chronological).
@@ -36,7 +48,9 @@ Some people give the advice of having multiple resumes or editing your resume fo
 
 As for cover letters, I think they're a waste of time for undergrads. If you can make one cover letter that only takes a few minutes to edit per position then that's fine. Just always be aware, if you're frequently spending more than 30 minutes applying to each position something is wrong.
 
-One of the best ways to improve your resume is letting other people review it. My CS professors gave me some of the best advice towards my resume. It is also important to have many other people review your resume. People like upperclassmen currently working in tech, current/former bosses, and pretty much anyone who's willing.
+One of the best ways to improve your resume is letting other people review it. My CS professors gave me some of the best advice towards my resume. It is also important to have many other people review your resume. People like upperclassmen currently working in tech, current/former bosses, and pretty much anyone who's willing. Make sure to have at least one person outside of SU review your resume, and one person outside of the tech scene.
+
+One common issue I see on resumes is how people communicate what they did at their job or what their projects involved. It should be bullet points starting with action words that quickly convey what the problem is and how you solved it. There should also be points that describe teamwork/collaboration to some degree if possible.
 
 ## Programming Outside of School
 ---
