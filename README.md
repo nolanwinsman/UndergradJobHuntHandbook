@@ -30,7 +30,7 @@ You should probably have a projects section to your resume if you're applying to
 
 ### Formatting
 
-There are many perspectives and opinions on how your resume should look. The only hard rule I believe in is that your resume should not exceed one page. This is monumental for your resume. If you resume exceeds one page, change that ASAP.
+There are many perspectives and opinions on how your resume should look. The only hard rule I believe in is that your resume should not exceed one page. This is monumental. If your resume exceeds one page, change that ASAP.
 
 Below are a list of things that I believe are important to the resume, but might not apply to every single individual.
 
@@ -60,12 +60,14 @@ As for what programming you should work on, that's really up to you. I do not re
 
 The best programming you can do outside of school is whatever interests you and you actually commit to doing. For me, I wrote a ton of [Python](https://www.python.org/) and [Shell](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm) scripts to automate random things. This is the programming I enjoyed. Sure it might have been more beneficial to learn another language, but I really enjoyed writing [Python](https://www.python.org/). 
 
+### Project Ideas
+
 If you do strictly want to program whatever looks most impressive on your resume (I do not recommend this), then here are a few things you can do.
 
 - Build a website (If this is your first time doing any web development, keep it simple. A website can be a great project since it's easy to show off. During an interview, they can just open the link and see your website. Web development is also the most common developer position availible so if you strictly want to make it easier to find work, this is a great route.)
 - Python Web Scraping/APIs (As mentioned above, Project 8 of Programming Languages is quite important in my eyes. You would essentially be doing that project, but instead of fetching data from Wikipedia, you would fetch it somewhere else. I love movies so I did a lot of programs where I fetch data from [IMDB](https://developer.imdb.com/documentation/api-documentation/) and do something with that data)
 - Automate the Onboarding Process of Getting a New Computer (This is one of my favorite projects. The title I gave is a bit confusing, but essentially you write a script that installs/configures all your software for your computer. So if you got a brand new computer, you would run this script and it would install Discord, Google Chrome, VSCode, ect.)
-- If there's some Development field you want to get into then do a project that reflects what developers in that field do. Some obvious examples are, if you want to be a web developer, build a website. If you want to get into AI, build an AI that does something. This might require you to ask around for less obvious fields, like "what kind of programming do IT developers do?"
+- If there's some Development field you want to get into then do a project that reflects that. Some obvious examples are, if you want to be a web developer, build a website. If you want to get into AI, build an AI that does something. This might require you to ask around for less obvious fields, like "what kind of programming do IT developers do?"
 
 As a hard rule you should follow, ALL code you write outside of class should be on Github with proper **README** documentation. If it isn't an honor code violation, put it on Github. You solve a leetcode problem, put it on Github. You test something out in a new language, put it on Github. If you remember for Programming Languages you had to make frequent commits, get in the habit of doing that. You can see on my Github https://github.com/nolanwinsman I have a lot of green squares which look good. If you did do a longer project and it has two commits, that's wasted potential.
 
@@ -92,7 +94,7 @@ The website [https://www.builtinaustin.com/](https://www.builtinaustin.com/) is 
 
 For me personally, I wanted to stack every advantage I could in my favor so I applied all over the U.S. That's going to be a conversation you need to have with yourself if you're willing to leave everything behind. It worked out fantastic for me, but it won't for everyone.
 
-For me personally, I followed somewhat of a shotgun approach in applying for jobs. I applied to pretty much everything I was half qualified for. By the way, Ignore most job requirements. Of course, if it's asking for 10 years experience with a Doctorite, then you're not qualified for that position. That being said, you will almost never be 100% qualified based on their requirements 
+I followed somewhat of a shotgun approach in applying for jobs. I applied to pretty much everything I was half qualified for. By the way, Ignore most job requirements. Of course, if it's asking for 10 years experience with a Doctorite, then you're not qualified for that position. That being said, you will almost never be 100% qualified based on their requirements 
 
 For any undergrad reading this. If you want to apply to [Visa](https://usa.visa.com/) reach out to me personally if you want a referal. I do not have enough clout to get you an interview, but I get a couple grand if I'm your reference and you land the job so please reach out to me.
 
@@ -150,6 +152,7 @@ This is mostly just advice I would give to people that just landed a position.
 - Get your finances figured out. Most people have poor money management skills. Don't be like them. Live below your means to some degree.
 - Learn how to invest your money. This is one of those things that will be the smartest choice you ever make and old you will be quite happy. I can't tell you what to invest in (you should open a ROTH IRA though) Just watch a lot of Youtube videos on it and dedicate some amount of money every month to go into investments.
 - Reach out to a lot of people for advice. Reaching out to me is smart since I know what I'm talking about. I still reach out to a lot of family, friends, and former bosses for advice.
+- The terminal is your friend. I know a lot of people avoid the terminal as much as possible when programming, but the more you use it, the more you realize how incredible it is. Get used to 
 
 ## Conclusion
 ---
