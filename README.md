@@ -124,7 +124,7 @@ It's also super important that you're asking questions to understand the positio
 Below are a few common questions I would ask.
 
 - What does an average day look like? (This question is incredible. Really helps you understand what you will actually be doing)
-- What is <Software Y> I've never heard of before. (If they list some framework on the job posting, ask about it if you're curious)
+- What is Software XYZ I've never heard of before. (If they list some framework on the job posting, ask about it if you're curious)
 - Do you have any suggestions for a student trying to stand out in the job hunt?
 - What stands out to you in a great employee
 - Can you tell me a bit about how you landed your leadership positions and what it entails.(This was a great question to ask people that are managers of teams)
