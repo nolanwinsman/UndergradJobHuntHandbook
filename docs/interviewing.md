@@ -29,3 +29,7 @@ Below are a few common questions I would ask.
 - Can you tell me a bit about how you landed your leadership positions and what it entails.(This was a great question to ask people that are managers of teams)
 
 Anyway, you get the point. Asking questions is a must.
+
+## Likeability
+
+One thing that isn't always thought of is being a likeable person. Of course they're interviewing for someone that can code and be gernally useful, but they're also interviewing for someone they're going to sit next to.
