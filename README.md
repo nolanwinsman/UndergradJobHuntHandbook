@@ -18,7 +18,7 @@ Some people have reached out to me and told me this document was useful to them.
 
 ## [Interviewing](docs/interviewing.md)
 
-## [Avoid Getting Discouraged](docs/discoraged.md)
+## [Avoid Getting Discouraged](docs/discouraged.md)
 
 ## [Miscellaneous Advice](docs/misc.md)
 
