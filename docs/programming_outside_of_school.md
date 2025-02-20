@@ -23,6 +23,13 @@ he's one of the best programmers I know.
 
 ### What Development to do Outside of School to Increase your Hireability
 
+Okay so I know I just went on a massive rant that you should do whatever programming is most fun for you, there is also an argument for developing more corporate and hireable skills. One thing I notice somewhat commonly with undergrads is they fixate on learning things
+that probably aren't worth their time. For instance, let's say you type at an average speed. You think to yourself "programmers code super fast. I should focus on typing faster." So you spend your freetime grinding [SpongeBob SquarePants Typing](https://spongebob.fandom.com/wiki/SpongeBob_SquarePants_Typing)
+and [Typing of the Dead](https://en.wikipedia.org/wiki/The_Typing_of_the_Dead). Now if you think playing these games and typing faster is a ton of fun then go for it, but if you think it will increase the odds you'll get hired, you're playing yourself. A wise
+professor once told me "You spend more time thinking than programming."
+
+It could be worthwile to learn something that's useful to people like webdev, database, backend, game development, automated testing. Things that might not be the most exciting to learn on your own but make you a valuable assset.
+
 ### Project Ideas
 
 If you do strictly want to program whatever looks most impressive on your resume (I do not recommend this), then here are a few things you can do.
