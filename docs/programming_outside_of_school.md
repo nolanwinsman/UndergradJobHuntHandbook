@@ -2,10 +2,26 @@
 
 ---
 
-Some people seem to say you need to grind programming outside of your classes. I don't think this is the case at all, but doing a bit of coding outside of school can have massive benefits and is one of the best ways to stand out from other applicants.
-As for what programming you should work on, that's really up to you. I do not recommend picking super difficult and time consuming projects. For instance, while a 100 hour project that does some advanced analysis of something displays it on a website would be impressive, the average student is either going to give up, or not finish the project in time to put on your resume or discuss in interviews.
+I am a big believer that you need to do some amount of programming outside of your classes. I don't think you need to do 1000+ Leetcode questions and build six full stack applications, but you need to do something. Even if you make straight A's in all your classes,
+if you graduate with zero extra coding done, you're gonna have a difficult time finding a job.
 
-The best programming you can do outside of school is whatever interests you and you actually commit to doing. For me, I wrote a ton of [Python](https://www.python.org/) and [Shell](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm) scripts to automate random things. This is the programming I enjoyed. Sure it might have been more beneficial to learn another language, but I really enjoyed writing [Python](https://www.python.org/).
+## Find the Fun in Programming
+
+Some people seem to say you need to grind programming outside of your classes. I don't think this is the case at all, but doing a bit of coding outside of school can have massive benefits and is one of the best ways to stand out from other applicants.
+As for what programming you should work on, that's really up to you. I do not recommend picking super difficult and time consuming projects. For instance, while a 100 hour project that does some advanced analysis of something displays it on a website would
+be impressive, the average student is either going to give up, or not finish the project in time to put on your resume or discuss in interviews.
+
+For me, I tried my best to find the fun in programming. I did what I enjoyed and what I found intersting. For instance recently I have gotten into learning Neovim and customizing my nvim configuration. This has been such a blast and has reignited my excitedment
+for development.
+
+The best programming you can do outside of school is whatever interests you and you actually commit to doing. For me, I wrote a ton of [Python](https://www.python.org/) and [Shell](https://www.tutorialspoint.com/unix/unix-what-is-shell.htm) scripts
+to automate random things. This is the programming I enjoyed. Sure it might have been more beneficial to learn another language, but I really enjoyed writing [Python](https://www.python.org/). I remember an older classment told me I should do something new and different.
+While there's a lot of value in that advice he gave me, I was just having so much fun with the development I was doing.
+
+To really hammer in the point that I recommend coding what you find fun. One of my classmates spent probably 1000+ hours developing Minecraft mods. There's an argument that he could have spent that time doing more "corporate" development, he did what he enjoyed and
+he's one of the best programmers I know.
+
+### What Development to do Outside of School to Increase your Hireability
 
 ### Project Ideas
 
