@@ -20,6 +20,10 @@ Some people have reached out to me and told me this document was useful to them.
 
 ## [Avoid Getting Discouraged](docs/discouraged.md)
 
+## [What to Do Once You Actually Got the Job](docs/got_job.md)
+
+## [Finances](docs/finances.md)
+
 ## [Miscellaneous Advice](docs/misc.md)
 
 ## Conclusion
