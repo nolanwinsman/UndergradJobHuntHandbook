@@ -2,7 +2,7 @@
 
 ---
 
-### When to Apply
+## When to Apply
 
 You should start applying as soon as possible. If you start applying for positions, the beginning of senior year, it will probably be a lot slower that first semester compared to your last semester.
 
@@ -10,7 +10,7 @@ A common issue I ran into when applying super early on is during the interview I
 
 That being said, it is still advantageous to start applying quite early.
 
-### Where to Apply
+## Where to Apply
 
 For where you should apply, like what websites, [Linkedin](https://www.linkedin.com) worked best for me. People will warn you about quick apply, since it's so fast and easy to apply there's a lot more competition. Even though your odds are low, when it takes one minute to apply, why not? I landed my job from a quick apply. That being said, you also want to put some effort into applications that take time. It's super important you're fast at applying because you will want to apply as much as possible.
 
@@ -25,3 +25,20 @@ I followed somewhat of a shotgun approach in applying for jobs. I applied to pre
 For any undergrad reading this. If you want to apply to [Visa](https://usa.visa.com/) reach out to me personally if you want a referal. I do not have enough clout to get you an interview, but I get a couple grand if I'm your reference and you land the job so please reach out to me.
 
 Lastly, apply to mostly New Grad positions. Entry level isn't really entry level and very few undergrad students are actually qualified for entry level. That doesn't mean don't apply to entry level, just mostly apply to new grad. This is one of the benefits of applying sonner rather than later so do not give up.
+
+## Apply as Early as Possible
+
+Here's a little story; Recently, my adjacent team was hiring for a Senior Systems Engineer position. The position opened up early January and I sent it to a few of my friends to apply to. None of them applied. One week later recruiting picked out ten-ish people to
+do a first round interview. The next week three of them had technical interviews. The week after that one of those three was sent an offer letter and she accepted. One of my friends eventually applied three weeks after I sent that individual the position but by that
+point, they weren't looking anymore. The moral of the story is that typically teams are looking for the first great candidate, not the best candidate in the world.
+
+A decent amount of the time a position is filled quite fast. You could be an amazing fit but there's a good chance they already found someone. This is why checking every day for new positions is so important. Now all of this is not to discourage you from applying to a
+position if it's already been listed for a few weeks. It's just that your odds are much higher the earlier you apply.
+
+## Integration Hell
+
+## Should you Get a non Tech Job While Applying to Tech Jobs?
+
+## Applying Outside of your Home City
+
+## Cold Emailing

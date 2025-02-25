@@ -1,7 +1,5 @@
 # Resume
 
----
-
 In my opinion, a lot of people underestimate how time consuming and difficult it is to build a strong resume. It can take months of refinement and editing to have an excellent resume. This is why the sooner you start the better.
 
 ## Adding Stuff to your Resume when you lack Experience
@@ -48,6 +46,12 @@ One of the best ways to improve your resume is letting other people review it. M
 
 One common issue I see on resumes is how people communicate what they did at their job or what their projects involved. It should be bullet points starting with action words that quickly convey what the problem is and how you solved it. There should also be points that describe teamwork/collaboration to some degree if possible.
 
+## Review Other People's Resumes
+
+I have had a lot of undergrads over the years ask me to review their resumes. While I think this is a fantastic idea, I had my upperclassmen read over my resume many times, one thing that I've noticed is not a single undergrad has asked to look at my resume.
+Maybe the arrogant side of me just wants to flex my resume, but I still think it's worthwhile to review other people's resumes. See what you like, what you don't like. Maybe you see something new. I previewed many of my upperclassmen's resumes back in my day. Not the
+most important advice but something worth considering.
+
 ## Common Feedback I give on Resumes
 
 #### oomph
@@ -77,17 +81,17 @@ Also avoid reusing action words and if you do reuse one, make sure it's not in c
 - Documented Test cases for...
 - **Developed** Test Suite...
 
-### What is the problem and How did you Fix it?
+## What is the problem and How did you Fix it?
 
 Sometimes when reading bullet points to projects and work you have no familiarity with it can be difficult to understand what the thing actually is. Some bullet points read like a list of tech words with no meaning. You don't have to follow this exactly, but I think some
 description of what the code is and what it solves can be fantastic
 
-### Github
+## Github
 
 Your Github cannot be bland. Not having a ton of commits isn't the end of the world, but you really should have a profile pick and a README profile. You can watch this video tutorial ![](https://www.youtube.com/watch?v=9A8sQZDRn5o)
 or look at my profile as reference. You don't have to copy the video or me exactly, but you should look at a lot oh profiles and see what you like. You definitely need to have some info there though. !()[https://github.com/nolanwinsman]
 
-### More Numbers.
+## More Numbers.
 
 Try to add numbers to a lot/most of your bullet points. While numbers like...
 
@@ -103,7 +107,7 @@ Numbers like
 
 Numbers like those are MONEY because when you do things that save time, that makes people MONEY.
 
-### Filename
+## Filename
 
 If you really want to go above and beyond you should `<Firstname Lastname> Resume <position applying to> <company applying to>.pdf` maybe not exactly like that but you get the point.
 

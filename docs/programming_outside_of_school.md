@@ -1,6 +1,4 @@
-## Programming Outside of School
-
----
+# Programming Outside of School
 
 I am a big believer that you need to do some amount of programming outside of your classes. I don't think you need to do 1000+ Leetcode questions and build six full stack applications, but you need to do something. Even if you make straight A's in all your classes,
 if you graduate with zero extra coding done, you're gonna have a difficult time finding a job.
@@ -21,7 +19,7 @@ While there's a lot of value in that advice he gave me, I was just having so muc
 To really hammer in the point that I recommend coding what you find fun. One of my classmates spent probably 1000+ hours developing Minecraft mods. There's an argument that he could have spent that time doing more "corporate" development, he did what he enjoyed and
 he's one of the best programmers I know.
 
-### What Development to do Outside of School to Increase your Hireability
+## What Development to do Outside of School to Increase your Hireability
 
 Okay so I know I just went on a massive rant that you should do whatever programming is most fun for you, there is also an argument for developing more corporate and hireable skills. One thing I notice somewhat commonly with undergrads is they fixate on learning things
 that probably aren't worth their time. For instance, let's say you type at an average speed. You think to yourself "programmers code super fast. I should focus on typing faster." So you spend your freetime grinding [SpongeBob SquarePants Typing](https://spongebob.fandom.com/wiki/SpongeBob_SquarePants_Typing)
@@ -30,7 +28,7 @@ professor once told me "You spend more time thinking than programming."
 
 It could be worthwile to learn something that's useful to people like webdev, database, backend, game development, automated testing. Things that might not be the most exciting to learn on your own but make you a valuable assset.
 
-### Project Ideas
+## Project Ideas
 
 If you do strictly want to program whatever looks most impressive on your resume (I do not recommend this), then here are a few things you can do.
 
@@ -42,3 +40,13 @@ If you do strictly want to program whatever looks most impressive on your resume
 As a hard rule you should follow, ALL code you write outside of class should be on Github with proper **README** documentation. If it isn't an honor code violation, put it on Github. You solve a leetcode problem, put it on Github. You test something out in a new language, put it on Github. If you remember for Programming Languages you had to make frequent commits, get in the habit of doing that. You can see on my Github https://github.com/nolanwinsman I have a lot of green squares which look good. If you did do a longer project and it has two commits, that's wasted potential.
 
 Also, a lot of people talk about the Leetcode grind. I really wouldn't suggest grinding it, maybe try a problem or two and watch a few youtube videos. For developer positions, you will sometimes be asked to solve a coding problem during the interview. This is one of the things that just sucks about the job hunt. One time I froze during a problem and promptly did not receive an invite to another interview. Just do your best and don't linger on any failures too much.
+
+## Leetcode
+
+## Github
+
+## Documentation
+
+## Examples of some of My Projects
+
+## Automation

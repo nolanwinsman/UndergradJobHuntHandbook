@@ -14,4 +14,8 @@ This is mostly just advice I would give to people that just landed a position.
 
 ## Learning the Wrong Lessons
 
-##
+## The Terminal is Your Friend
+
+## General Computer Competency is Underrated
+
+## Luck
