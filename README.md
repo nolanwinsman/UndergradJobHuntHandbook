@@ -26,6 +26,8 @@ Some people have reached out to me and told me this document was useful to them.
 
 ## [Finances](docs/finances.md)
 
+## [Getting Better at Coding and General Programming Advice](docs/getting_better_at_coding.md)
+
 ## [Miscellaneous Advice](docs/misc.md)
 
 ## Conclusion
