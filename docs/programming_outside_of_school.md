@@ -41,6 +41,14 @@ As a hard rule you should follow, ALL code you write outside of class should be 
 
 Also, a lot of people talk about the Leetcode grind. I really wouldn't suggest grinding it, maybe try a problem or two and watch a few youtube videos. For developer positions, you will sometimes be asked to solve a coding problem during the interview. This is one of the things that just sucks about the job hunt. One time I froze during a problem and promptly did not receive an invite to another interview. Just do your best and don't linger on any failures too much.
 
+## Programming Outside of School Makes your Schoolwork Easier
+
+One benefit of doing some amount of coding outside of school is that it makes schoolwork easier. As an example, a decent number of students first exposure to Python at SU is the AI class. They're struggling with these AI projects because they're trying to learn
+these complex AI concepts. At the same time they're also struggling to learn Python. It's a wombo combo of not understanding how to complete the AI projects. Since I had a strong background in Python, at no point did I struggle with those AI projects due to my lack of Python
+knowledge.
+
+But of a long winded example above but you should get the point. Around Sophomore/Junior year when I started coding here and there in my free time, programming became so much easier. A lot of the classwork just made more sense to me and my grades rapidly improved.
+
 ## Leetcode
 
 ## Github
