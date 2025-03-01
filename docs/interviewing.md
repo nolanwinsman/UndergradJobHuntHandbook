@@ -37,7 +37,7 @@ Anyway, you get the point. Asking questions is a must.
 
 Now I want you to close your eyes and think of someone you just don't enjoy being around. It could be because they're annoying, they make you uncomftorable, they smell bad, whatever reason. Now think of someone you enjoy being around. It could be because they're funny,
 they're kind and warm, they good listeners, whatever. Now of the two people you imagined, which would you rather work with? Coming across as a likeable person during the interview is important. Of course they're looking for someone competent, they're also looking for
-someone they're going to have to sit next to for a few years. Now I don't really know techniques for coming across as a likeable person. I'm not always the best at it myself, but one important thing you can do is smile.
+someone they're going to have to sit next to for a few years. Now I don't really know techniques for coming across as a likeable person. I'm not always the best at it myself, but one important thing you can do is smile. The gift of gab means a lot in interviews.
 
 ## Don't be Yes Man like the Hit 2008 movie starring Jim Carrey
 
@@ -65,3 +65,11 @@ fulfil at my current company. Now there's many developer positions that are role
 
 Back in college I interviewed for a position as an Android App Developer. After the first interview, I was rejected. Being rejected is never fun but I didn't take it personally, they're looking for a specific role and I did not fit that role. Humans are amalgamations of
 different competencies. It's all about figuring out where you fit in and how you can provide.
+
+## Clean Your Room
+
+The vast majority of interviews these days are on a zoom meeting (or similar software). Be prepared to use said software. For instance I had trouble getting Microsoft Teams to work on my Linux Desktop so I had to switch back to Windows.
+
+Now the main point of this is to clean your room. This is good life advice, but I'm mainly talking about for interviews. You need to be prepared to have your camera on during the interview and thus, your room better be clean behind you. If you have an unmade bed that looks
+bad. If you have empty beer bottles, trash, embarassing anime posters, these things should probably be moved away from the cameras view. I know some people just have that blurr effect around their face but I think that looks kinda ugly. Just clean your room before
+every interview.
