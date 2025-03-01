@@ -30,7 +30,7 @@ There are many perspectives and opinions on how your resume should look. The onl
 Below are a list of things that I believe are important to the resume, but might not apply to every single individual.
 
 - Find a good template. You can create your own template if you have an eye for design, but I think it's easiest to just use an online template. Just make sure whatever website you use doesn't try to Nickel and Dime you. For my resume, I use [flowcv](https://app.flowcv.com/). You can also find some great [LaTex](https://www.overleaf.com/) templates if you want complete control.
-- For me personally, I like a hint of color. Nothing crazy, but more than black and white. A few greys or business blues can really make it pop while still looking sharp.
+- For me personally, I like a hint of color. Nothing crazy, but more than black and white. A few greys or business blues can really make it pop while still looking sharp. The colors still need to be a blit bland though, no pinks or oranges' ect.
 - You cannot have any gramatical errors
 - Do everything the same way. For instance, if one time I list the time I worked at a job as 2019/06 (year/month) but somewhere else for another job I list 08/2020 (month/year) then that looks bad. Follow this perfectly, if you have a - (dash space) and somewhere else you have - (dash space space) don't do that.
 
@@ -88,8 +88,24 @@ description of what the code is and what it solves can be fantastic
 
 ## Github
 
+You should list your Github on your resume and your Github needs to be at least decent.
+
 Your Github cannot be bland. Not having a ton of commits isn't the end of the world, but you really should have a profile pick and a README profile. You can watch this video tutorial ![](https://www.youtube.com/watch?v=9A8sQZDRn5o)
-or look at my profile as reference. You don't have to copy the video or me exactly, but you should look at a lot oh profiles and see what you like. You definitely need to have some info there though. !()[https://github.com/nolanwinsman]
+or look at my profile as reference. You don't have to copy the video or me exactly, but you should look at a lot oh profiles and see what you like. You definitely need to have some info there though. !()[https://github.com/nolanwinsman].
+It looks a million times better if you spend some time to fill out your Github profile with some basic info about you, some stuff you're working on, and any other relevant information
+
+Another important thing is somewhat frequent commits. The simple reality is monkey brain sees more green and things more betterer. I know some people use scripts to create 20+ fake commits a day but don't do that. You can somewhat inflate your commits number by committing
+code far more often. Many moons ago I was a student in Dr. Schrum's "Programming Languages" class. This was the first class that I took that required Git commits and stored the code on Github. I would be willing to bet that no student before or after me has surpassed
+me in total commits for the class. I think I averaged 40+ commits per project. The main reason I did this was because I wanted to build competency in committing a lot and not just coding the entire project then sending one commit for 'code finished.' This is a bit
+of an overexplanation but you get my point, more commits are generally good.
+
+Here are some things that I don't think I **must dos** but I still recommend.
+
+- Have a good profile picuture of you.
+- Have your Github account name be your full name (no `nolanTheJedi` account names).
+- Star some interesting repositories.
+- Follow people and have people follow you.
+- Add widgets for things you want to show (I have wakatime since I think wakatime is really cool).
 
 ## More Numbers.
 
