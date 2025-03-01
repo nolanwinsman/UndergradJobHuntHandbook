@@ -56,5 +56,3 @@ But of a long winded example above but you should get the point. Around Sophomor
 ## Documentation
 
 ## Examples of some of My Projects
-
-## Automation

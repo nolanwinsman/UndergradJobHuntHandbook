@@ -73,4 +73,6 @@ These are far from perfect questions but hopefully you get my point.
 
 ## Swiss Cheese Knowledge
 
+## Something is Better Than Nothing
+
 ## Luck
