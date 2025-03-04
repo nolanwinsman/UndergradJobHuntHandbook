@@ -20,6 +20,8 @@ Explains all my thoughts on resumes. This section also covers your Github profil
 
 ## [Interviewing](docs/interviewing.md)
 
+## [Networking](docs/networking.md)
+
 ## [Avoid Getting Discouraged](docs/discouraged.md)
 
 ## [Internships](docs/internship.md)
