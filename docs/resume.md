@@ -86,6 +86,8 @@ Also avoid reusing action words and if you do reuse one, make sure it's not in c
 Sometimes when reading bullet points to projects and work you have no familiarity with it can be difficult to understand what the thing actually is. Some bullet points read like a list of tech words with no meaning. You don't have to follow this exactly, but I think some
 description of what the code is and what it solves can be fantastic
 
+## There are Two Wolves inside your Resume
+
 ## Github
 
 You should list your Github on your resume and your Github needs to be at least decent.
@@ -123,8 +125,26 @@ Numbers like
 
 Numbers like those are MONEY because when you do things that save time, that makes people MONEY.
 
+## Don't Be Ashamed of your Resume
+
+## Tailor Your Resume to the Job Application
+
+Now this is something I don't have a ton of experience in, but it seems like the META. For instance I applied to probably 300+ tech positions until I finally landed my current job. I landed maybe 20-ish interviews. My coworker and good friend applied to 10 jobs and got
+eight interviews. The big difference between us is he carefully tailored his resume to every single position. Now I don't think this is entirely feasible for all undergrads. Now this advice doesn't really work for every undergrad as there's a good chance you don't
+have enough experience to fill out your resume with everything on the application. That being said this advice can really help you stand out.
+
+## If Possible Have Two+ Resumes
+
+Now this piece of advice is quite similar to the previous point of tailoring your resume per application. I feel this advice is more feasible for most undergrads. You still need enough experience to fill out two resumes but that's your problem. The simplest example of
+this is let's say you're looking at two main types of jobs, a programming job and an IT job. You could build one resume showing all your development skills and another showing your IT experience. Then obviously you would apply with the programming resume for programming
+jobs and the IT resume for IT jobs. If you can build two resumes for something like this, it dramatically increases your odds of an interview.
+
 ## Filename
 
-If you really want to go above and beyond you should `<Firstname Lastname> Resume <position applying to> <company applying to>.pdf` maybe not exactly like that but you get the point.
+If you really want to go above and beyond you should name your resume file
+
+`<Firstname Lastname> Resume <position applying to> <company applying to>.pdf`
+
+maybe not exactly like that but you get the point.
 
 It can feel like this little bit of effort is a waste of time, but sometimes the small things are what eventually land you a job.

@@ -1,6 +1,6 @@
-## Applying to Positions
+# Applying to Positions
 
----
+This is just an overview of some of the experience I have applying to positions. There is more skill to this than you would think so I highly recommend you put an emphasis on developing this skill.
 
 ## When to Apply
 
@@ -40,8 +40,6 @@ position if it's already been listed for a few weeks. It's just that your odds a
 For those that do not know what integration hell is, here's a little story. Imagine you're a civil engineer tasked with building a bridge. You spend night and day perfectly planning this out. You pick the best materials, your blueprints have accounted for all possible
 scenarios. After months of planning your crew starts building the bridge. Immediately, you run into tons of issues. The material is weaker than you expected, crew get sick, the design looks ugly in person, basically everything that can go wrong does go wrong. This is
 integration hell.
-
-## Should you Get a non Tech Job While Applying to Tech Jobs?
 
 ## Applying Outside of your Home City
 

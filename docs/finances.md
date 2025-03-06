@@ -2,6 +2,15 @@
 
 For me my outlook on finances changed a lot when I graduated college. It's imperitive that you aren't meek about these things and you develop financial literacy as the world will walk all over you if you don't.
 
+## Opportunity Cost
+
+One thing I want to talk about before anything else in finances is opportunity cost. Opportunity cost isn't just a financial term, it's everywhere. If you eat a sandwhich instead of drinking a smoothie, there's opportunity cost. If you date person X instead of person Y there's
+opportunity cost. If you go to one university compared to another, there's... well I'm sure you can guess.
+
+Opportunity cost is everywhere and I would recommend you start to view a lot of choices as opportunity costs as it helps differenciate a good choice from a great choice. One thing I see a ton in new grads/interns is their plan to pay off their tuition as fast as possible.
+Now this is a good decision and really shouldn't harm you at all, but there might just be a better choice. Let's say your tuition interst is 2% and you could get 10% interest from investing. In this scenario it makes a lot more sense to invest and pay the minimum on your
+tuition. Now this is quite the outlier example as your tuition will probably be higher and your investment returns a bit lower but you get the point.
+
 ## Please Don't Buy an Expensive Car
 
 This is a short piece of advice but just please don't buy a stupid expensive car. The number of peers I have that balled out on a car as soon as they landed a tech job is a lot. Just because you can afford something doesn't mean you should.
@@ -80,5 +89,3 @@ consider if this is something you desperately need.
 #### Other Small Benefits
 
 - Company Pays Internet Bill
-
-## Opportunity Cost
