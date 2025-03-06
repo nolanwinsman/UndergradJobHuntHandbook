@@ -134,7 +134,7 @@ student.
 
 You should list your Github on your resume and your Github needs to be at least decent.
 
-Your Github cannot be bland. Not having a ton of commits isn't the end of the world, but you really should have a profile pick and a README profile. You can watch this video tutorial ![](https://www.youtube.com/watch?v=9A8sQZDRn5o)
+Your Github cannot be bland. Not having a ton of commits isn't the end of the world, but you really should have a profile pick and a README profile. You can watch this video tutorial [https://www.youtube.com/watch?v=9A8sQZDRn5o](https://www.youtube.com/watch?v=9A8sQZDRn5o)
 or look at my profile as reference. You don't have to copy the video or me exactly, but you should look at a lot oh profiles and see what you like. You definitely need to have some info there though. !()[https://github.com/nolanwinsman].
 It looks a million times better if you spend some time to fill out your Github profile with some basic info about you, some stuff you're working on, and any other relevant information
 
