@@ -15,3 +15,8 @@ If you're one of the few people reading this right now, you should add me on Lin
 recommendation at your company.
 
 Some people suggest you should add as many people as possible. I don't want to say this is wrong advice but I personally wouldn't follow it. I try not to have too many connections on LinkedIn that are just people I've never heard of.
+
+## Go to Computer Science Club
+
+I'm a bit biased with this one as back when I was a young pup, I was computer science club president. I still think it's a great way to network and make friends. As a CS student it can be difficult to meet your upperclassmen and for me personally I established great
+relations with my upperclassmen and they still help me out with things to this day. CS Club is where I met most of them. Also, I've visited a few times post graduation to present on the internship/job hunt and I hope I provided some valuable information.
