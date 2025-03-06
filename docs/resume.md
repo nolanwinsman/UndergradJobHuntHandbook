@@ -17,7 +17,8 @@ You should probably have a projects section to your resume if you're applying to
 
 - **Capstone** (Your capstone project is an amazing asset to add to your resume)
 - **AI Final Project** (If you have taken Dr. Schrum's AI class, the final project is another excellent asset to add to your resume. One of the benefits is more than likely you can publish the code for this publicly on your [Github](https://github.com/))
-- **Programming Languages Project 8 Wikipedia Web Scraping** (This is probably the best standard project to add to your resume. A ton of programming in the corporate world is fetch this data, do something with the data, then display it somewhere else)
+
+Don't put any generic school projects like the sorting projects or "implement a linked list" any project that you're not allowed to put on your Github and most CS students across the world should not be
 
 ## One Page
 
@@ -50,17 +51,18 @@ One common issue I see on resumes is how people communicate what they did at the
 
 I have had a lot of undergrads over the years ask me to review their resumes. While I think this is a fantastic idea, I had my upperclassmen read over my resume many times, one thing that I've noticed is not a single undergrad has asked to look at my resume.
 Maybe the arrogant side of me just wants to flex my resume, but I still think it's worthwhile to review other people's resumes. See what you like, what you don't like. Maybe you see something new. I previewed many of my upperclassmen's resumes back in my day. Not the
-most important advice but something worth considering.
+most important advice but something worth considering. Another great place to look is [/r/resumes](https://www.reddit.com/r/resumes/)
 
-## Common Feedback I give on Resumes
-
-#### oomph
+## oomph
 
 I have seen a lot of decent to strong resumes that lack "oomph." The resume might be pretty good, but would it stand out in a stack of 100 resumes?
 
-I would thoroughly go through every single bullet point and rewrite it many times. Every word needs to be carefully picked with intention. Kinda like poetry. Starting every bullet point with an impactful action word is important.
+I would thoroughly go through every single bullet point and rewrite it many times. Every word needs to be carefully picked with intention. Kinda like poetry. Starting every bullet point with an impactful action word is important. It really sucks fine tuning a resume
+this much but it can really help you stand out.
 
-Action words like...
+## Action Words
+
+Every bullet point needs to start with an action word. Try to pick strong action words like these below
 
 - Developed
 - Coordinated
@@ -72,8 +74,26 @@ Action words like...
 - Implemented
 - Produced
 - Tested
+- Refactored
+- Automated
+- Integrated
+- Enhanced
+- Deployed
+- Scaled
+- Optimized
+- Integrated
+- Spearheaded
 
-ect.
+And avoid weak action words like these below
+
+- Helped
+- Worked on
+- Assisted
+- Made
+- Participated in
+- Used
+- Fixed
+- Responsible For
 
 Also avoid reusing action words and if you do reuse one, make sure it's not in close proximity to the previous instance. You don't want
 
@@ -86,7 +106,29 @@ Also avoid reusing action words and if you do reuse one, make sure it's not in c
 Sometimes when reading bullet points to projects and work you have no familiarity with it can be difficult to understand what the thing actually is. Some bullet points read like a list of tech words with no meaning. You don't have to follow this exactly, but I think some
 description of what the code is and what it solves can be fantastic
 
+## Gen AI Assistance
+
+Now I think ChatGPT or similar programs can be helpful with crafting a strong resume. You need to use it sparingly and in a focused manner. I think it's best used for individual bullet points. You shouldn't use it for every bullet point but here's a great example. Let's
+say you have the below bullet point in your resume
+
+- Updated website features and resolved various bugs to improve functionality
+
+Now this isn't particularly a bad bullet point, it just lacks oomph and is a little generic. You could ask chatgpt "I want to add more oomph to this bullet point while also adding that I spearheaded the initiative to fix these historic bugs. My efforts reduced crashes
+and similar issues by 40%"
+
+For me ChatGPT output...
+
+- Spearheaded an initiative to fix longstanding bugs, reducing crashes and stability issues by 40%, while enhancing website functionality and user experience.
+
+You can see this is much better.
+
 ## There are Two Wolves inside your Resume
+
+There are two main pieces of your resume; What you've done and how you articulate it. You can have 20+ people review your resume, each word carefully picked out, strong action words, ect. Despite this you could still be struggling to land interviews.
+
+At some point, you just need to do more cool stuff. More coding projects, certificates, internships/jobs, more club participation, scripts to hack your neighbor's wifi, whatever. You just need to do more stuff. I've seen some great resumes but they don't have any work
+experience or zero coding outside of class. Without these things it can be difficult to stand out amongst other resumes. A decent resume of someone that's done lots of cool stuff is probably better than a perfectly structured and worded resume of someone that's just another
+student.
 
 ## Github
 
@@ -126,6 +168,8 @@ Numbers like
 Numbers like those are MONEY because when you do things that save time, that makes people MONEY.
 
 ## Don't Be Ashamed of your Resume
+
+I have seen some people ashamed of their resume. They don't want to send it to other people to proof read. If this is you, you're currently cooked. You need to work on your resume until you're proud of it.
 
 ## Tailor Your Resume to the Job Application
 
