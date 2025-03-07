@@ -49,10 +49,19 @@ knowledge.
 
 But of a long winded example above but you should get the point. Around Sophomore/Junior year when I started coding here and there in my free time, programming became so much easier. A lot of the classwork just made more sense to me and my grades rapidly improved.
 
-## Leetcode
+## Leetcode/Coding Puzzles
+
+If you don't know what Leetcode is, it's basically a bunch of coding puzzles. You can check out the website here [https://leetcode.com/](https://leetcode.com/). I have mixed feelings on the Leetcode grind. On one hand you'll probably get more bang for your buck learning
+different kinds of development like frontend, backend, game dev, ect. On the other hand it isn't bad to practice data structures and algorithms. Also there's a strong chance that you will be asked to solve a coding puzzle during an interview and even if you're a
+fantastic candidate, if you bomb that part of the interview you probably won't get a job offer.
+
+So to be honest I don't know. A lot of students land jobs without ever solving a single Leetcode type question. A lot grind this skill and increase their odds of landing a job. So it's really up to you. If you do want to get really good at these coding puzzles,
+I would look into [https://neetcode.io/](https://neetcode.io/) as it's more structured than just randomly picking Leetcode questions. Also there's [https://www.codewars.com/](https://www.codewars.com/) for fun daily coding challenges.
 
 ## Github
 
-## Documentation
+I believe I already wrote about Github a fair emount in the resume section. This'll just be a quick reminder that every line of code you write should be on Github. Excluding school work that you can't share and copyright code.
+
+## Certificates
 
 ## Examples of some of My Projects
