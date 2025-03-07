@@ -6,8 +6,9 @@ In my opinion, a lot of people underestimate how time consuming and difficult it
 
 One of the most difficult aspects of building a good resume as an undergrad is having enough experience to fill out one page. Here are a few things you can do to add experience for your resume.
 
-- Teach yourself a programming language. You do not have to become a master at the language. In my opinion, if you can program Dr. Schrum's Programming Languages Project 1 Java Overview(The one where you have to do like six tasks to learn the language) in another language like [Rust](https://www.rust-lang.org/) or [Lua](https://www.lua.org/), then you know enough to put it on your resume.
-- Teach yourself [Markdown](https://www.markdownguide.org/). It takes maybe 30 minutes to understand 90% or Markdown, you've probably used it before on your projects README. This document is written in MARKDOWN.
+- Teach yourself a programming language. You do not have to become a master at the language. In my opinion, if you can program Dr. Schrum's Programming Languages Project 1 Java Overview(The one where you have to do like six tasks to learn the language) in another language like
+  [Rust](https://www.rust-lang.org/), [Lua](https://www.lua.org/), or [Go](https://go.dev/tour/welcome/1) then you know enough to put it on your resume.
+- Teach yourself [Markdown](https://www.markdownguide.org/). It takes maybe 30 minutes to understand 90% or Markdown, you've probably used it before on your projects README. This document is written in Markdown
 - Join a club at school. To be honest this won't be a massive benefit to your resume, but it does look good and fill out some space.
 - Get a job. If you're about to graduate, it might be too late. For pretty much everyone else, if you've never had a normal job, you should get one. A single _grunt work_ job looks ingredible on your resume. For me I worked at a Golf Course and put that on my resume. If you're worried about time commitment, get a summer job or an on campus job.
 
