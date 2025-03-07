@@ -20,3 +20,15 @@ A lot of people have seemed concerned about me recommending them for an internsh
 a return offer and that's it. It's way better than giving you a full time offer then you suck.
 
 ## Internships aren't just Coffee Runs, They're Awesome
+
+A lot of people think having an internship is a glorified gopher position. While I technically made a beer run for my team during my internship, internships are a lot more than errands. It's typically really interesting work, building cool things, and a lot of fun
+activities. At my company and many others, interns are treated like royalty. As intern site lead, it's part of my job to make sure the interns have fun. Below is a list of activities we hosted for the interns last summer
+
+- Main Event Arcade
+- Chatfield Park Kayaking
+- Rockies Baseball Game
+- Super Smash Brothers Tournament
+- Game Show Battle Room
+- Board Games and Pizza
+
+Interns are also generally paid quite well. At my company we pay for their housing and most of their transports. I really just want to convey that being an intern is the life. If you need to get a job anyway I highly recommend an internship.
