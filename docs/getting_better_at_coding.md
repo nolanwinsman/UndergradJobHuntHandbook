@@ -2,4 +2,6 @@
 
 ## DRY
 
+## Six Month Rule
+
 ## Gen AI
