@@ -26,6 +26,18 @@ year of savings for having a roommate. Other than a large promotion there's not 
 Whoever said "mo money mo problems" is a hooligan because the more money I get the easier my life is generally speaking. With $10,000 extra a year you could buy that stupid car (I wouldn't recommend this still). You can save for a house much easier. You can gamble that
 money on Counter Strike skins. You can invest that money. There's just so many things you can do with $10,000 a year. Your savings might not be exactly like mine but you should save at least several hundreds of dollars with one roommate.
 
+## The Six Figure Dream is Kinda a Lie
+
+Now at lot of people talk about landing a six figure salary right out of college. While this is possible, it's exceptionally rare. As a new grad I would expect 60s, 70s, 80s and maybe 90s. To some degree you have to do your time in tech. I started at a decent salary, but
+after working for three years my salary has gone up over 40%. Even if you want to make as much money as possible, it's better to take a salary a bit less than you would like, work for two years then find a new job. Rather than holding out for your first job to be high
+salary.
+
+## Don't Be Underpaid
+
+Now I know I just stated that you're probably going to be paid less than you expect, but you shouldnt be paid like 40K less than you expect. Development is a somewhat rare skill that's worth a certain amount. Don't let a company pay you a 45K salary with zero benefits
+for software engineering. That skill is worth more than that. I would only allow yourself to be egregiously underpaid if you really don't have another option. If that happens you should be trying to jump ship as fast as possible as you don't want to work at a company
+walks all over you.
+
 ## Investing
 
 I know investing might seem scary or something you just told yourself you'll do when you're older but I HIGHLY recommend you start today. At the very least, start as soon as you get one of them real adult jobs. If for whatever reason you're anti investing, I want to give
